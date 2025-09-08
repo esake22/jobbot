@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+credentialjobbot.json
+hooks.py
